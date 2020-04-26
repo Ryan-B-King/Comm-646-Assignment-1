@@ -125,16 +125,4 @@ $(function() {
             window.alert('An error has occurred.');
         };
     });
-
-
-
-
-
-
-
-
-
-
-
-
 });
